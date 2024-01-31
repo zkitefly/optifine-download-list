@@ -51,8 +51,8 @@ def main():
         entry["name"] = entry["mcversion"] + "-OptiFine_" + names[i].replace(" ", "_").replace(entry["mcversion"] + "_", "")
         versions.append(entry)
 
-    # 将数据保存为list.json文件
-    with open("list.json", "w", encoding="utf-8") as file:
+    # 将数据保存为index.json文件
+    with open("index.json", "w", encoding="utf-8") as file:
         json.dump(versions, file, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
