@@ -48,7 +48,7 @@ def main():
             "filename": ("preview_" if "pre" in names[i].lower() else "") + "OptiFine_" + names[i].replace(" ", "_") + ".jar",
             "forge": forge_versions[i]
         }
-        entry["name"] = entry["mcversion"] + "-OptiFine_" + names[i].replace(" ", "_").replace(entry["mcversion"] + "_", "")
+        entry["name"] = names[i].replace(" ", "_").replace(entry["mcversion"] + "_", "")
         versions.append(entry)
 
     # 将数据保存为index.json文件
