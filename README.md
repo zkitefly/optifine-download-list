@@ -1,2 +1,2 @@
-# optifine-unofficial-download
-Unofficial OptiFine download source, automatically grabbed by GitHub Action
+# optifine-download-list
+Optifine download list, automatically grabbed by GitHub Action
