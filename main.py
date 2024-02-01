@@ -40,10 +40,10 @@ def main():
     print("forge_versions", forge_versions)
     print("release_times", release_times)
     print("names", names)
-    # if not len(release_times) == len(names):
-    #     raise Exception("版本与发布时间数据无法对应")
-    # if not len(forge_versions) == len(names):
-    #     raise Exception("版本与 Forge 兼容数据无法对应")
+    if not len(release_times) == len(names):
+        raise Exception("版本与发布时间数据无法对应")
+    if not len(forge_versions) == len(names):
+        raise Exception("版本与 Forge 兼容数据无法对应")
     if len(release_times) < 10:
         raise Exception("获取到的版本数量不足")
 
@@ -71,7 +71,7 @@ def main():
         "https://of-302v.zkitefly.eu.org/file/",
         "https://of-302-v.8mi.edu.pl/file/",
         "https://of-302.zkitefly.eu.org/file/",
-        "https://of-302.burningtnt.workers.dev/file/"
+        # "https://of-302.burningtnt.workers.dev/file/",
     ]
 
     # 合并数据
