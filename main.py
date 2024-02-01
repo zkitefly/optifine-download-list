@@ -1,3 +1,4 @@
+import os.path
 import requests
 import re
 import json
@@ -13,6 +14,14 @@ def get_page(url):
 # 正则表达式搜索函数
 def regex_search(pattern, text):
     return re.findall(pattern, text)
+
+# 读取已有的index.json文件
+def read_existing_index():
+    if os.path.exists("index.json") and os.path.getsize("index.json") > 0:
+        with open("index.json", "r", encoding="utf-8") as file:
+            return json.load(file)
+    else:
+        return {"download": [], "file": []}
 
 # 主函数
 def main():
@@ -50,20 +59,26 @@ def main():
         entry["name"] = names[i].replace(" ", "_").replace(entry["mcversion"] + "_", "")
         versions.append(entry)
 
-    # 构建输出字典
-    output_data = {
-        "download": [
-            "https://of-302.zkitefly.eu.org/file/",
-            "https://of-302v.zkitefly.eu.org/file/",
-            "https://of-302-v.8mi.edu.pl/file/",
-            "https://of-302.burningtnt.workers.dev/file/"
-        ],
-        "file": versions
-    }
+    # 读取已有的index.json文件
+    existing_index = read_existing_index()
 
+    # 覆盖download字段
+    existing_index["download"] = [
+        "https://of-302.zkitefly.eu.org/file/",
+        "https://of-302v.zkitefly.eu.org/file/",
+        "https://of-302-v.8mi.edu.pl/file/",
+        "https://of-302.burningtnt.workers.dev/file/"
+    ]
+
+    # 合并数据
+    existing_index["file"].extend(versions)
+
+    # 去重
+    existing_index["file"] = [dict(t) for t in {tuple(d.items()) for d in existing_index["file"]}]
+    
     # 将数据保存为index.json文件
     with open("index.json", "w", encoding="utf-8") as file:
-        json.dump(output_data, file, ensure_ascii=False, indent=4)
+        json.dump(existing_index, file, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     main()
