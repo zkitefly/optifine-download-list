@@ -34,9 +34,9 @@ def check_links():
         for future in futures:
             future.result()
 
-    # 保存更新后的 JSON 数据
-    with open('index.json', 'w') as f:
-        json.dump(index_data, f, indent=4)
+    # # 保存更新后的 JSON 数据
+    # with open('index.json', 'w') as f:
+    #     json.dump(index_data, f, indent=4)
 
 if __name__ == "__main__":
     check_links()

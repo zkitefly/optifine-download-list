@@ -69,8 +69,8 @@ def main():
     # 覆盖download字段
     existing_index["download"] = [
         "https://of-302v.zkitefly.eu.org/file/",
-        "https://of-302.zkitefly.eu.org/file/",
         "https://of-302-v.8mi.edu.pl/file/",
+        "https://of-302.zkitefly.eu.org/file/",
         # "https://of-302.burningtnt.workers.dev/file/",
     ]
 
