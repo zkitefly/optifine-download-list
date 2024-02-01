@@ -1,7 +1,6 @@
 import requests
 import re
 import json
-from tqdm import tqdm
 
 # 发送HTTP GET请求获取网页内容
 def get_page(url):
@@ -38,7 +37,7 @@ def main():
     # 转化为列表输出
     versions = []
 
-    for i in tqdm(range(len(release_times))):
+    for i in range(len(release_times)):
         names[i] = names[i].replace("_", " ")
         entry = {
             "name": names[i].replace("HD U ", "").replace(".0 ", " "),
@@ -57,3 +56,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print("Done!")

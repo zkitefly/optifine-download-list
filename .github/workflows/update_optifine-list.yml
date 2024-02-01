@@ -29,11 +29,6 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
-        run: |
-          python3 -m pip install --upgrade pip
-          pip install requests tqdm
-
       - name: Fetch optifine-list changes
         id: fetch_changes
         shell: bash
