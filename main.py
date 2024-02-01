@@ -76,6 +76,9 @@ def main():
     # 去重
     existing_index["file"] = [dict(t) for t in {tuple(d.items()) for d in existing_index["file"]}]
     
+    # 根据时间降序排序
+    existing_index["file"] = sorted(existing_index["file"], key=lambda x: x["time"], reverse=True)
+
     # 将数据保存为index.json文件
     with open("index.json", "w", encoding="utf-8") as file:
         json.dump(existing_index, file, ensure_ascii=False, indent=4)
