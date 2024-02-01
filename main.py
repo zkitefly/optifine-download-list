@@ -2,6 +2,7 @@ import os.path
 import requests
 import re
 import json
+from collections import defaultdict
 
 # 发送HTTP GET请求获取网页内容
 def get_page(url):
@@ -85,6 +86,10 @@ def main():
 
     unique_files = []
     for file_name, file_infos in file_time_dict.items():
+        max_time_file_info = max(file_infos, key=lambda x: x[0])
+        unique_files.append(max_time_file_info[1])
+
+    existing_index["file"] = unique_files
     
     # 根据时间降序排序
     existing_index["file"] = sorted(existing_index["file"], key=lambda x: x["time"], reverse=True)
