@@ -36,10 +36,13 @@ def main():
     release_times = regex_search("(?<=colDate'>)[^<]+", page_content)
     names = regex_search("(?<=OptiFine_)[0-9A-Za-z_.]+(?=.jar\")", page_content)
 
-    if not len(release_times) == len(names):
-        raise Exception("版本与发布时间数据无法对应")
-    if not len(forge_versions) == len(names):
-        raise Exception("版本与 Forge 兼容数据无法对应")
+    print("forge_versions", forge_versions)
+    print("release_times", release_times)
+    print("names", names)
+    # if not len(release_times) == len(names):
+    #     raise Exception("版本与发布时间数据无法对应")
+    # if not len(forge_versions) == len(names):
+    #     raise Exception("版本与 Forge 兼容数据无法对应")
     if len(release_times) < 10:
         raise Exception("获取到的版本数量不足")
 
@@ -74,7 +77,14 @@ def main():
     existing_index["file"].extend(versions)
 
     # 去重
-    existing_index["file"] = [dict(t) for t in {tuple(d.items()) for d in existing_index["file"]}]
+    file_time_dict = defaultdict(list)
+    for file_info in existing_index["file"]:
+        file_name = file_info["filename"]
+        file_time = file_info["time"]
+        file_time_dict[file_name].append((file_time, file_info))
+
+    unique_files = []
+    for file_name, file_infos in file_time_dict.items():
     
     # 根据时间降序排序
     existing_index["file"] = sorted(existing_index["file"], key=lambda x: x["time"], reverse=True)
