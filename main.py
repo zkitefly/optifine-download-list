@@ -72,6 +72,7 @@ def main():
         "https://of-302-v.8mi.edu.pl/file/",
         "https://of-302.zkitefly.eu.org/file/",
         "https://of-302-cf.8mi.edu.pl/file/",
+        "https://of-302.burningtnt.workers.dev/file/",
     ]
 
     # 合并数据
