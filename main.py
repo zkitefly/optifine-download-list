@@ -71,7 +71,7 @@ def main():
         "https://of-302v.zkitefly.eu.org/file/",
         "https://of-302-v.8mi.edu.pl/file/",
         "https://of-302.zkitefly.eu.org/file/",
-        # "https://of-302.burningtnt.workers.dev/file/",
+        "https://of-302-cf.8mi.edu.pl/file/",
     ]
 
     # 合并数据
