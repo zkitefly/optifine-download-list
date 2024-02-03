@@ -1527,7 +1527,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.14_HD_U_F1_pre6.jar",
-            "name": "HD_U_F1_pre6"
+            "name": "HD_U_F1_pre6",
+            "ispreview": true
         },
         {
             "_id": "5d110fac70e3210fb110e052",
@@ -1537,7 +1538,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.14.2_HD_U_F1_pre15.jar",
-            "name": "HD_U_F1_pre15"
+            "name": "HD_U_F1_pre15",
+            "ispreview": true
         },
         {
             "_id": "5debe8cc18a2d709dcceebce",
@@ -1547,7 +1549,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.12.2_HD_U_F6_pre1.jar",
-            "name": "HD_U_F6_pre1"
+            "name": "HD_U_F6_pre1",
+            "ispreview": true
         },
         {
             "_id": "5e458eda90794d86a2e665f3",
@@ -1557,7 +1560,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre1.jar",
-            "name": "HD_U_G1_pre1"
+            "name": "HD_U_G1_pre1",
+            "ispreview": true
         },
         {
             "_id": "5e4831e290794d86a2103b1a",
@@ -1567,7 +1571,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre2.jar",
-            "name": "HD_U_G1_pre2"
+            "name": "HD_U_G1_pre2",
+            "ispreview": true
         },
         {
             "_id": "5e4ad4d890794d86a23ae969",
@@ -1577,7 +1582,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre3.jar",
-            "name": "HD_U_G1_pre3"
+            "name": "HD_U_G1_pre3",
+            "ispreview": true
         },
         {
             "_id": "5e4d77e390794d86a2644bf2",
@@ -1587,7 +1593,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre5.jar",
-            "name": "HD_U_G1_pre5"
+            "name": "HD_U_G1_pre5",
+            "ispreview": true
         },
         {
             "_id": "5e4d77ea90794d86a2644c34",
@@ -1597,7 +1604,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre4.jar",
-            "name": "HD_U_G1_pre4"
+            "name": "HD_U_G1_pre4",
+            "ispreview": true
         },
         {
             "_id": "5e501ae490794d86a28d1014",
@@ -1607,7 +1615,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre7.jar",
-            "name": "HD_U_G1_pre7"
+            "name": "HD_U_G1_pre7",
+            "ispreview": true
         },
         {
             "_id": "5e52bde290794d86a2b697f3",
@@ -1617,7 +1626,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre9.jar",
-            "name": "HD_U_G1_pre9"
+            "name": "HD_U_G1_pre9",
+            "ispreview": true
         },
         {
             "_id": "5e7e3f5a90794d86a2c23905",
@@ -1627,7 +1637,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre10.jar",
-            "name": "HD_U_G1_pre10"
+            "name": "HD_U_G1_pre10",
+            "ispreview": true
         },
         {
             "_id": "5e84d6df90794d86a235d7f0",
@@ -1637,7 +1648,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre12.jar",
-            "name": "HD_U_G1_pre12"
+            "name": "HD_U_G1_pre12",
+            "ispreview": true
         },
         {
             "_id": "5e86286890794d86a24d8480",
@@ -1647,7 +1659,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre13.jar",
-            "name": "HD_U_G1_pre13"
+            "name": "HD_U_G1_pre13",
+            "ispreview": true
         },
         {
             "_id": "5eca775f40dad95f6bf21681",
@@ -1657,7 +1670,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre18.jar",
-            "name": "HD_U_G1_pre18"
+            "name": "HD_U_G1_pre18",
+            "ispreview": true
         },
         {
             "_id": "5ed5425940dad95f6baca947",
@@ -1667,7 +1681,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre19.jar",
-            "name": "HD_U_G1_pre19"
+            "name": "HD_U_G1_pre19",
+            "ispreview": true
         },
         {
             "_id": "5eda885b40dad95f6bf7ad22",
@@ -1677,7 +1692,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre20.jar",
-            "name": "HD_U_G1_pre20"
+            "name": "HD_U_G1_pre20",
+            "ispreview": true
         },
         {
             "_id": "5edbd9da40dad95f6b10717d",
@@ -1687,7 +1703,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre21.jar",
-            "name": "HD_U_G1_pre21"
+            "name": "HD_U_G1_pre21",
+            "ispreview": true
         },
         {
             "_id": "5edd2b5a40dad95f6b27bf09",
@@ -1697,7 +1714,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre22.jar",
-            "name": "HD_U_G1_pre22"
+            "name": "HD_U_G1_pre22",
+            "ispreview": true
         },
         {
             "_id": "5ede7cd940dad95f6b3b9ef9",
@@ -1707,7 +1725,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre23.jar",
-            "name": "HD_U_G1_pre23"
+            "name": "HD_U_G1_pre23",
+            "ispreview": true
         },
         {
             "_id": "5ee5145b40dad95f6ba29434",
@@ -1717,7 +1736,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre24.jar",
-            "name": "HD_U_G1_pre24"
+            "name": "HD_U_G1_pre24",
+            "ispreview": true
         },
         {
             "_id": "5ee7b75c40dad95f6b0dcc5f",
@@ -1727,7 +1747,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre26.jar",
-            "name": "HD_U_G1_pre26"
+            "name": "HD_U_G1_pre26",
+            "ispreview": true
         },
         {
             "_id": "5eecfd5a40dad95f6b13f146",
@@ -1737,7 +1758,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre27.jar",
-            "name": "HD_U_G1_pre27"
+            "name": "HD_U_G1_pre27",
+            "ispreview": true
         },
         {
             "_id": "5eee4edc40dad95f6b428e8f",
@@ -1747,7 +1769,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre28.jar",
-            "name": "HD_U_G1_pre28"
+            "name": "HD_U_G1_pre28",
+            "ispreview": true
         },
         {
             "_id": "5eefa05940dad95f6b987eb2",
@@ -1757,7 +1780,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre29.jar",
-            "name": "HD_U_G1_pre29"
+            "name": "HD_U_G1_pre29",
+            "ispreview": true
         },
         {
             "_id": "5ef0f1dc40dad95f6bb81668",
@@ -1767,7 +1791,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre30.jar",
-            "name": "HD_U_G1_pre30"
+            "name": "HD_U_G1_pre30",
+            "ispreview": true
         },
         {
             "_id": "5eff725b40dad95f6b1c205b",
@@ -1777,7 +1802,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre1.jar",
-            "name": "HD_U_G2_pre1"
+            "name": "HD_U_G2_pre1",
+            "ispreview": true
         },
         {
             "_id": "5f00c3d940dad95f6b3b24d5",
@@ -1787,7 +1813,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre2.jar",
-            "name": "HD_U_G2_pre2"
+            "name": "HD_U_G2_pre2",
+            "ispreview": true
         },
         {
             "_id": "5f08ace240dad95f6be5ca18",
@@ -1797,7 +1824,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre3.jar",
-            "name": "HD_U_G2_pre3"
+            "name": "HD_U_G2_pre3",
+            "ispreview": true
         },
         {
             "_id": "5f0b4fe440dad95f6b361d79",
@@ -1807,7 +1835,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre4.jar",
-            "name": "HD_U_G2_pre4"
+            "name": "HD_U_G2_pre4",
+            "ispreview": true
         },
         {
             "_id": "5f148a9140dad95f6b058ea4",
@@ -1817,7 +1846,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre5.jar",
-            "name": "HD_U_G2_pre5"
+            "name": "HD_U_G2_pre5",
+            "ispreview": true
         },
         {
             "_id": "5f187ec940dad95f6b58c770",
@@ -1827,7 +1857,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre7.jar",
-            "name": "HD_U_G2_pre7"
+            "name": "HD_U_G2_pre7",
+            "ispreview": true
         },
         {
             "_id": "5f187edc40dad95f6b58ccf8",
@@ -1837,7 +1868,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre6.jar",
-            "name": "HD_U_G2_pre6"
+            "name": "HD_U_G2_pre6",
+            "ispreview": true
         },
         {
             "_id": "5f19d04740dad95f6b74f90c",
@@ -1847,7 +1879,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre9.jar",
-            "name": "HD_U_G2_pre9"
+            "name": "HD_U_G2_pre9",
+            "ispreview": true
         },
         {
             "_id": "5f19d05740dad95f6b74fdd8",
@@ -1857,7 +1890,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre8.jar",
-            "name": "HD_U_G2_pre8"
+            "name": "HD_U_G2_pre8",
+            "ispreview": true
         },
         {
             "_id": "5f1b21cc40dad95f6b9057d5",
@@ -1867,7 +1901,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre10.jar",
-            "name": "HD_U_G2_pre10"
+            "name": "HD_U_G2_pre10",
+            "ispreview": true
         },
         {
             "_id": "5f1b21cf40dad95f6b905835",
@@ -1877,7 +1912,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre09.jar",
-            "name": "HD_U_G2_pre09"
+            "name": "HD_U_G2_pre09",
+            "ispreview": true
         },
         {
             "_id": "5f1b21d340dad95f6b905964",
@@ -1887,7 +1923,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre08.jar",
-            "name": "HD_U_G2_pre08"
+            "name": "HD_U_G2_pre08",
+            "ispreview": true
         },
         {
             "_id": "5f1b21d740dad95f6b905b56",
@@ -1897,7 +1934,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre07.jar",
-            "name": "HD_U_G2_pre07"
+            "name": "HD_U_G2_pre07",
+            "ispreview": true
         },
         {
             "_id": "5f1b21db40dad95f6b905ce1",
@@ -1907,7 +1945,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre06.jar",
-            "name": "HD_U_G2_pre06"
+            "name": "HD_U_G2_pre06",
+            "ispreview": true
         },
         {
             "_id": "5f1b21df40dad95f6b905e29",
@@ -1917,7 +1956,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre05.jar",
-            "name": "HD_U_G2_pre05"
+            "name": "HD_U_G2_pre05",
+            "ispreview": true
         },
         {
             "_id": "5f21b95540dad95f6b205cb1",
@@ -1927,7 +1967,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre11.jar",
-            "name": "HD_U_G2_pre11"
+            "name": "HD_U_G2_pre11",
+            "ispreview": true
         },
         {
             "_id": "5f230ac640dad95f6b3cc281",
@@ -1937,7 +1978,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre13.jar",
-            "name": "HD_U_G2_pre13"
+            "name": "HD_U_G2_pre13",
+            "ispreview": true
         },
         {
             "_id": "5f230ac940dad95f6b3cc2ae",
@@ -1947,7 +1989,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre12.jar",
-            "name": "HD_U_G2_pre12"
+            "name": "HD_U_G2_pre12",
+            "ispreview": true
         },
         {
             "_id": "5f245c5240dad95f6b59bcd0",
@@ -1957,7 +2000,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre14.jar",
-            "name": "HD_U_G2_pre14"
+            "name": "HD_U_G2_pre14",
+            "ispreview": true
         },
         {
             "_id": "5f25adc99507202b68f7b352",
@@ -1967,7 +2011,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre16.jar",
-            "name": "HD_U_G2_pre16"
+            "name": "HD_U_G2_pre16",
+            "ispreview": true
         },
         {
             "_id": "5f25adcd9507202b68f7b37b",
@@ -1977,7 +2022,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre15.jar",
-            "name": "HD_U_G2_pre15"
+            "name": "HD_U_G2_pre15",
+            "ispreview": true
         },
         {
             "_id": "5f39742fa1ebdba3bd8f0358",
@@ -1987,7 +2033,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre1.jar",
-            "name": "HD_U_G3_pre1"
+            "name": "HD_U_G3_pre1",
+            "ispreview": true
         },
         {
             "_id": "5f400c446eea76dbe2940950",
@@ -1997,7 +2044,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre2.jar",
-            "name": "HD_U_G3_pre2"
+            "name": "HD_U_G3_pre2",
+            "ispreview": true
         },
         {
             "_id": "5f4400af6eea76dbe2bb5bbf",
@@ -2007,7 +2055,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre3.jar",
-            "name": "HD_U_G3_pre3"
+            "name": "HD_U_G3_pre3",
+            "ispreview": true
         },
         {
             "_id": "5f4552306eea76dbe2c70441",
@@ -2017,7 +2066,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre4.jar",
-            "name": "HD_U_G3_pre4"
+            "name": "HD_U_G3_pre4",
+            "ispreview": true
         },
         {
             "_id": "5f46a3b16eea76dbe2d1b825",
@@ -2027,7 +2077,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre5.jar",
-            "name": "HD_U_G3_pre5"
+            "name": "HD_U_G3_pre5",
+            "ispreview": true
         },
         {
             "_id": "5f47f4b06eea76dbe2dbc3cb",
@@ -2037,7 +2088,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre6.jar",
-            "name": "HD_U_G3_pre6"
+            "name": "HD_U_G3_pre6",
+            "ispreview": true
         },
         {
             "_id": "5f4946aa6eea76dbe2e574cc",
@@ -2047,7 +2099,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre7.jar",
-            "name": "HD_U_G3_pre7"
+            "name": "HD_U_G3_pre7",
+            "ispreview": true
         },
         {
             "_id": "5f5c34c65d5b20279caec4db",
@@ -2057,7 +2110,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.3_HD_U_G3_pre2.jar",
-            "name": "HD_U_G3_pre2"
+            "name": "HD_U_G3_pre2",
+            "ispreview": true
         },
         {
             "_id": "5f6252b2d052d3ce552bec93",
@@ -2067,7 +2121,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.8.9_HD_U_L6_pre1.jar",
-            "name": "HD_U_L6_pre1"
+            "name": "HD_U_L6_pre1",
+            "ispreview": true
         },
         {
             "_id": "5f6cdeb2d052d3ce556b7a8d",
@@ -2077,7 +2132,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.3_HD_U_G4_pre1.jar",
-            "name": "HD_U_G4_pre1"
+            "name": "HD_U_G4_pre1",
+            "ispreview": true
         },
         {
             "_id": "5ff278eed052d3ce5505078e",
@@ -2087,7 +2143,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.4_HD_U_G6_pre8.jar",
-            "name": "HD_U_G6_pre8"
+            "name": "HD_U_G6_pre8",
+            "ispreview": true
         },
         {
             "_id": "5ff27974d052d3ce55053fcf",
@@ -2097,7 +2154,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.15.2_HD_U_G6_pre5.jar",
-            "name": "HD_U_G6_pre5"
+            "name": "HD_U_G6_pre5",
+            "ispreview": true
         },
         {
             "_id": "5ff27975d052d3ce55053fe1",
@@ -2107,7 +2165,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.14.4_HD_U_G5_pre1.jar",
-            "name": "HD_U_G5_pre1"
+            "name": "HD_U_G5_pre1",
+            "ispreview": true
         },
         {
             "_id": "5ff27976d052d3ce55053ff5",
@@ -2117,7 +2176,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.13.2_HD_U_G5_pre1.jar",
-            "name": "HD_U_G5_pre1"
+            "name": "HD_U_G5_pre1",
+            "ispreview": true
         },
         {
             "_id": "5ff27977d052d3ce55054009",
@@ -2127,7 +2187,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.12.2_HD_U_G5_pre1.jar",
-            "name": "HD_U_G5_pre1"
+            "name": "HD_U_G5_pre1",
+            "ispreview": true
         },
         {
             "_id": "5ff27979d052d3ce5505402a",
@@ -2137,7 +2198,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.12.1_HD_U_G5_pre1.jar",
-            "name": "HD_U_G5_pre1"
+            "name": "HD_U_G5_pre1",
+            "ispreview": true
         },
         {
             "_id": "5ff2797ad052d3ce5505403b",
@@ -2147,7 +2209,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.12_HD_U_G5_pre1.jar",
-            "name": "HD_U_G5_pre1"
+            "name": "HD_U_G5_pre1",
+            "ispreview": true
         },
         {
             "_id": "5ff2797bd052d3ce55054051",
@@ -2157,7 +2220,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.11.2_HD_U_G5_pre1.jar",
-            "name": "HD_U_G5_pre1"
+            "name": "HD_U_G5_pre1",
+            "ispreview": true
         },
         {
             "_id": "5ff2797cd052d3ce55054069",
@@ -2167,7 +2231,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.11_HD_U_G5_pre1.jar",
-            "name": "HD_U_G5_pre1"
+            "name": "HD_U_G5_pre1",
+            "ispreview": true
         },
         {
             "_id": "5ff2797dd052d3ce55054081",
@@ -2177,7 +2242,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.10.2_HD_U_I5_pre1.jar",
-            "name": "HD_U_I5_pre1"
+            "name": "HD_U_I5_pre1",
+            "ispreview": true
         },
         {
             "_id": "5ff2797ed052d3ce550540a2",
@@ -2187,7 +2253,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.10_HD_U_I5_pre1.jar",
-            "name": "HD_U_I5_pre1"
+            "name": "HD_U_I5_pre1",
+            "ispreview": true
         },
         {
             "_id": "5ff27980d052d3ce550540bc",
@@ -2197,7 +2264,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.9.4_HD_U_I5_pre1.jar",
-            "name": "HD_U_I5_pre1"
+            "name": "HD_U_I5_pre1",
+            "ispreview": true
         },
         {
             "_id": "5ff27981d052d3ce550540dc",
@@ -2207,7 +2275,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.9.0_HD_U_I5_pre1.jar",
-            "name": "HD_U_I5_pre1"
+            "name": "HD_U_I5_pre1",
+            "ispreview": true
         },
         {
             "_id": "5ff27982d052d3ce550540f2",
@@ -2217,7 +2286,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.8.9_HD_U_M5_pre2.jar",
-            "name": "HD_U_M5_pre2"
+            "name": "HD_U_M5_pre2",
+            "ispreview": true
         },
         {
             "_id": "5ff4a923d052d3ce551af4d6",
@@ -2227,7 +2297,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.4_HD_U_G6_pre9.jar",
-            "name": "HD_U_G6_pre9"
+            "name": "HD_U_G6_pre9",
+            "ispreview": true
         },
         {
             "_id": "5ff5faa3d052d3ce55281e2f",
@@ -2237,7 +2308,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.4_HD_U_G6_pre10.jar",
-            "name": "HD_U_G6_pre10"
+            "name": "HD_U_G6_pre10",
+            "ispreview": true
         },
         {
             "_id": "5ffb40a4d052d3ce5560edfa",
@@ -2247,7 +2319,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.4_HD_U_G6_pre11.jar",
-            "name": "HD_U_G6_pre11"
+            "name": "HD_U_G6_pre11",
+            "ispreview": true
         },
         {
             "_id": "5ffc9225d052d3ce556d9220",
@@ -2257,7 +2330,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.4_HD_U_G6_pre12.jar",
-            "name": "HD_U_G6_pre12"
+            "name": "HD_U_G6_pre12",
+            "ispreview": true
         },
         {
             "_id": "60047b3ad052d3ce55b83fbb",
@@ -2267,7 +2341,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.4_HD_U_G7_pre1.jar",
-            "name": "HD_U_G7_pre1"
+            "name": "HD_U_G7_pre1",
+            "ispreview": true
         },
         {
             "_id": "6005cca7d052d3ce55bc7ef3",
@@ -2277,7 +2352,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre2.jar",
-            "name": "HD_U_G7_pre2"
+            "name": "HD_U_G7_pre2",
+            "ispreview": true
         },
         {
             "_id": "60086fb3d052d3ce55c46ad3",
@@ -2287,7 +2363,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre4.jar",
-            "name": "HD_U_G7_pre4"
+            "name": "HD_U_G7_pre4",
+            "ispreview": true
         },
         {
             "_id": "60199325d052d3ce5580705a",
@@ -2297,7 +2374,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre5.jar",
-            "name": "HD_U_G7_pre5"
+            "name": "HD_U_G7_pre5",
+            "ispreview": true
         },
         {
             "_id": "601c36a7d052d3ce55b24e35",
@@ -2307,7 +2385,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre6.jar",
-            "name": "HD_U_G7_pre6"
+            "name": "HD_U_G7_pre6",
+            "ispreview": true
         },
         {
             "_id": "601d87a9d052d3ce55c93045",
@@ -2317,7 +2396,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre7.jar",
-            "name": "HD_U_G7_pre7"
+            "name": "HD_U_G7_pre7",
+            "ispreview": true
         },
         {
             "_id": "6022cda6d052d3ce5529a305",
@@ -2327,7 +2407,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre8.jar",
-            "name": "HD_U_G7_pre8"
+            "name": "HD_U_G7_pre8",
+            "ispreview": true
         },
         {
             "_id": "60296525d052d3ce559174dc",
@@ -2337,7 +2418,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre9.jar",
-            "name": "HD_U_G7_pre9"
+            "name": "HD_U_G7_pre9",
+            "ispreview": true
         },
         {
             "_id": "602c0827d052d3ce55c0ced1",
@@ -2347,7 +2429,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre10.jar",
-            "name": "HD_U_G7_pre10"
+            "name": "HD_U_G7_pre10",
+            "ispreview": true
         },
         {
             "_id": "602eab27d052d3ce55ed8f00",
@@ -2357,7 +2440,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre11.jar",
-            "name": "HD_U_G7_pre11"
+            "name": "HD_U_G7_pre11",
+            "ispreview": true
         },
         {
             "_id": "603542a7d052d3ce558666f7",
@@ -2367,7 +2451,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre1.jar",
-            "name": "HD_U_G8_pre1"
+            "name": "HD_U_G8_pre1",
+            "ispreview": true
         },
         {
             "_id": "604271a4d052d3ce554ce946",
@@ -2377,7 +2462,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre2.jar",
-            "name": "HD_U_G8_pre2"
+            "name": "HD_U_G8_pre2",
+            "ispreview": true
         },
         {
             "_id": "6047b7a5d052d3ce5598bc5d",
@@ -2387,7 +2473,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre3.jar",
-            "name": "HD_U_G8_pre3"
+            "name": "HD_U_G8_pre3",
+            "ispreview": true
         },
         {
             "_id": "604a5aa4d052d3ce55b88b11",
@@ -2397,7 +2484,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre4.jar",
-            "name": "HD_U_G8_pre4"
+            "name": "HD_U_G8_pre4",
+            "ispreview": true
         },
         {
             "_id": "604bac24d052d3ce55c93ac0",
@@ -2407,7 +2495,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre5.jar",
-            "name": "HD_U_G8_pre5"
+            "name": "HD_U_G8_pre5",
+            "ispreview": true
         },
         {
             "_id": "604e4f24d052d3ce55f0dc8f",
@@ -2417,7 +2506,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre6.jar",
-            "name": "HD_U_G8_pre6"
+            "name": "HD_U_G8_pre6",
+            "ispreview": true
         },
         {
             "_id": "60539524d052d3ce552daa61",
@@ -2427,7 +2517,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre7.jar",
-            "name": "HD_U_G8_pre7"
+            "name": "HD_U_G8_pre7",
+            "ispreview": true
         },
         {
             "_id": "6054e6a4d052d3ce553e601d",
@@ -2437,7 +2528,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre8.jar",
-            "name": "HD_U_G8_pre8"
+            "name": "HD_U_G8_pre8",
+            "ispreview": true
         },
         {
             "_id": "605a2ca5d052d3ce5582c63d",
@@ -2447,7 +2539,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre9.jar",
-            "name": "HD_U_G8_pre9"
+            "name": "HD_U_G8_pre9",
+            "ispreview": true
         },
         {
             "_id": "605b7e24d052d3ce5591bbd3",
@@ -2457,7 +2550,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre10.jar",
-            "name": "HD_U_G8_pre10"
+            "name": "HD_U_G8_pre10",
+            "ispreview": true
         },
         {
             "_id": "605ccfa5d052d3ce55a0bbfa",
@@ -2467,7 +2561,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre11.jar",
-            "name": "HD_U_G8_pre11"
+            "name": "HD_U_G8_pre11",
+            "ispreview": true
         },
         {
             "_id": "60772da6d052d3ce55e8bd0d",
@@ -2477,7 +2572,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre12.jar",
-            "name": "HD_U_G8_pre12"
+            "name": "HD_U_G8_pre12",
+            "ispreview": true
         },
         {
             "_id": "6096491f4995ed9b225aca63",
@@ -2487,7 +2583,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_21w08b_HD_U_G9_pre2.jar",
-            "name": "HD_U_G9_pre2"
+            "name": "HD_U_G9_pre2",
+            "ispreview": true
         },
         {
             "_id": "609649234995ed9b225acbca",
@@ -2497,7 +2594,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_21w08b_HD_U_G9_pre1.jar",
-            "name": "HD_U_G9_pre1"
+            "name": "HD_U_G9_pre1",
+            "ispreview": true
         },
         {
             "_id": "6098256d4995ed9b22750311",
@@ -2507,7 +2605,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_21w08b_HD_U_G9_pre3.jar",
-            "name": "HD_U_G9_pre3"
+            "name": "HD_U_G9_pre3",
+            "ispreview": true
         },
         {
             "_id": "609975604995ed9b2283d58c",
@@ -2517,7 +2616,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_21w08b_HD_U_G9_pre5.jar",
-            "name": "HD_U_G9_pre5"
+            "name": "HD_U_G9_pre5",
+            "ispreview": true
         },
         {
             "_id": "609975634995ed9b2283d6f2",
@@ -2527,7 +2627,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_21w08b_HD_U_G9_pre4.jar",
-            "name": "HD_U_G9_pre4"
+            "name": "HD_U_G9_pre4",
+            "ispreview": true
         },
         {
             "_id": "609ac6234995ed9b22927fd2",
@@ -2537,7 +2638,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre13.jar",
-            "name": "HD_U_G8_pre13"
+            "name": "HD_U_G8_pre13",
+            "ispreview": true
         },
         {
             "_id": "609c17a34995ed9b22a179ae",
@@ -2547,7 +2649,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre14.jar",
-            "name": "HD_U_G8_pre14"
+            "name": "HD_U_G8_pre14",
+            "ispreview": true
         },
         {
             "_id": "60a2afdb4995ed9b22f584a7",
@@ -2557,7 +2660,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_21w08b_HD_U_G9_pre6.jar",
-            "name": "HD_U_G9_pre6"
+            "name": "HD_U_G9_pre6",
+            "ispreview": true
         },
         {
             "_id": "60a401e74995ed9b22049f34",
@@ -2567,7 +2671,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_21w08b_HD_U_G9_pre7.jar",
-            "name": "HD_U_G9_pre7"
+            "name": "HD_U_G9_pre7",
+            "ispreview": true
         },
         {
             "_id": "60a554734995ed9b221349d0",
@@ -2577,7 +2682,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_21w08b_HD_U_G9_pre8.jar",
-            "name": "HD_U_G9_pre8"
+            "name": "HD_U_G9_pre8",
+            "ispreview": true
         },
         {
             "_id": "60a6a4d04995ed9b2221cad1",
@@ -2587,7 +2693,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_21w08b_HD_U_G9_pre9.jar",
-            "name": "HD_U_G9_pre9"
+            "name": "HD_U_G9_pre9",
+            "ispreview": true
         },
         {
             "_id": "60a7f6654995ed9b223134fd",
@@ -2597,7 +2704,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_21w08b_HD_U_G9_pre10.jar",
-            "name": "HD_U_G9_pre10"
+            "name": "HD_U_G9_pre10",
+            "ispreview": true
         },
         {
             "_id": "60a9474c4995ed9b22604512",
@@ -2607,7 +2715,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_21w08b_HD_U_G9_pre11.jar",
-            "name": "HD_U_G9_pre11"
+            "name": "HD_U_G9_pre11",
+            "ispreview": true
         },
         {
             "_id": "60ae8d4f4995ed9b22b9b07b",
@@ -2617,7 +2726,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_21w08b_HD_U_G9_pre12.jar",
-            "name": "HD_U_G9_pre12"
+            "name": "HD_U_G9_pre12",
+            "ispreview": true
         },
         {
             "_id": "60bfb0244995ed9b22335609",
@@ -2627,7 +2737,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17_HD_U_G9_pre16.jar",
-            "name": "HD_U_G9_pre16"
+            "name": "HD_U_G9_pre16",
+            "ispreview": true
         },
         {
             "_id": "60c101a24995ed9b22418c23",
@@ -2637,7 +2748,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17_HD_U_G9_pre18.jar",
-            "name": "HD_U_G9_pre18"
+            "name": "HD_U_G9_pre18",
+            "ispreview": true
         },
         {
             "_id": "60c101a64995ed9b22419090",
@@ -2647,7 +2759,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17_HD_U_G9_pre17.jar",
-            "name": "HD_U_G9_pre17"
+            "name": "HD_U_G9_pre17",
+            "ispreview": true
         },
         {
             "_id": "60c3a4a24995ed9b2260f68c",
@@ -2657,7 +2770,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17_HD_U_G9_pre20.jar",
-            "name": "HD_U_G9_pre20"
+            "name": "HD_U_G9_pre20",
+            "ispreview": true
         },
         {
             "_id": "60c3a4a54995ed9b2260fabc",
@@ -2667,7 +2781,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17_HD_U_G9_pre19.jar",
-            "name": "HD_U_G9_pre19"
+            "name": "HD_U_G9_pre19",
+            "ispreview": true
         },
         {
             "_id": "60c4f6224995ed9b227645c3",
@@ -2677,7 +2792,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17_HD_U_G9_pre21.jar",
-            "name": "HD_U_G9_pre21"
+            "name": "HD_U_G9_pre21",
+            "ispreview": true
         },
         {
             "_id": "60d76b234995ed9b2255d4ef",
@@ -2687,7 +2803,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17_HD_U_G9_pre22.jar",
-            "name": "HD_U_G9_pre22"
+            "name": "HD_U_G9_pre22",
+            "ispreview": true
         },
         {
             "_id": "60d8bca34995ed9b22664909",
@@ -2697,7 +2814,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17_HD_U_G9_pre23.jar",
-            "name": "HD_U_G9_pre23"
+            "name": "HD_U_G9_pre23",
+            "ispreview": true
         },
         {
             "_id": "60da0e234995ed9b22762d45",
@@ -2707,7 +2825,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17_HD_U_G9_pre24.jar",
-            "name": "HD_U_G9_pre24"
+            "name": "HD_U_G9_pre24",
+            "ispreview": true
         },
         {
             "_id": "60e9e0244995ed9b22c75d77",
@@ -2717,7 +2836,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre26.jar",
-            "name": "HD_U_G9_pre26"
+            "name": "HD_U_G9_pre26",
+            "ispreview": true
         },
         {
             "_id": "60ec83244995ed9b22f9a27d",
@@ -2727,7 +2847,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre27.jar",
-            "name": "HD_U_G9_pre27"
+            "name": "HD_U_G9_pre27",
+            "ispreview": true
         },
         {
             "_id": "60eea90ff2a6f7c42e340711",
@@ -2737,7 +2858,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre28.jar",
-            "name": "HD_U_G9_pre28"
+            "name": "HD_U_G9_pre28",
+            "ispreview": true
         },
         {
             "_id": "60ef96a4f2a6f7c42e5703ea",
@@ -2747,7 +2869,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre29.jar",
-            "name": "HD_U_G9_pre29"
+            "name": "HD_U_G9_pre29",
+            "ispreview": true
         },
         {
             "_id": "60f8d125f5d4ba65d94519f6",
@@ -2757,7 +2880,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre30.jar",
-            "name": "HD_U_G9_pre30"
+            "name": "HD_U_G9_pre30",
+            "ispreview": true
         },
         {
             "_id": "60fb7423f5d4ba65d97f829f",
@@ -2767,7 +2891,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre31.jar",
-            "name": "HD_U_G9_pre31"
+            "name": "HD_U_G9_pre31",
+            "ispreview": true
         },
         {
             "_id": "60fda6a3f5d4ba65d9b47cb2",
@@ -2777,7 +2902,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre32.jar",
-            "name": "HD_U_G9_pre32"
+            "name": "HD_U_G9_pre32",
+            "ispreview": true
         },
         {
             "_id": "61101ba2f5d4ba65d969e340",
@@ -2787,7 +2913,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre33.jar",
-            "name": "HD_U_G9_pre33"
+            "name": "HD_U_G9_pre33",
+            "ispreview": true
         },
         {
             "_id": "611bf922f5d4ba65d94dea5d",
@@ -2797,7 +2924,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre34.jar",
-            "name": "HD_U_G9_pre34"
+            "name": "HD_U_G9_pre34",
+            "ispreview": true
         },
         {
             "_id": "61268522f5d4ba65d91ed3be",
@@ -2807,7 +2935,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre35.jar",
-            "name": "HD_U_G9_pre35"
+            "name": "HD_U_G9_pre35",
+            "ispreview": true
         },
         {
             "_id": "6140e324f0198c2deb604441",
@@ -2817,7 +2946,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre1.jar",
-            "name": "HD_U_H1_pre1"
+            "name": "HD_U_H1_pre1",
+            "ispreview": true
         },
         {
             "_id": "614b6f22f0198c2deb0afcff",
@@ -2827,7 +2957,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre2.jar",
-            "name": "HD_U_H1_pre2"
+            "name": "HD_U_H1_pre2",
+            "ispreview": true
         },
         {
             "_id": "614e1222f0198c2deb2dbc18",
@@ -2837,7 +2968,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre3.jar",
-            "name": "HD_U_H1_pre3"
+            "name": "HD_U_H1_pre3",
+            "ispreview": true
         },
         {
             "_id": "6155fb22f0198c2deb91fd79",
@@ -2847,7 +2979,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre4.jar",
-            "name": "HD_U_H1_pre4"
+            "name": "HD_U_H1_pre4",
+            "ispreview": true
         },
         {
             "_id": "615b4122f0198c2debe296bb",
@@ -2857,7 +2990,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre5.jar",
-            "name": "HD_U_H1_pre5"
+            "name": "HD_U_H1_pre5",
+            "ispreview": true
         },
         {
             "_id": "61608722f0198c2deb2984b0",
@@ -2867,7 +3001,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre6.jar",
-            "name": "HD_U_H1_pre6"
+            "name": "HD_U_H1_pre6",
+            "ispreview": true
         },
         {
             "_id": "6169c1a1f0198c2debc3b126",
@@ -2877,7 +3012,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre7.jar",
-            "name": "HD_U_H1_pre7"
+            "name": "HD_U_H1_pre7",
+            "ispreview": true
         },
         {
             "_id": "617c36a2f0198c2deb2ec97a",
@@ -2887,7 +3023,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre8.jar",
-            "name": "HD_U_H1_pre8"
+            "name": "HD_U_H1_pre8",
+            "ispreview": true
         },
         {
             "_id": "6182ce25f0198c2deb8b22e9",
@@ -2897,7 +3034,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre9.jar",
-            "name": "HD_U_H1_pre9"
+            "name": "HD_U_H1_pre9",
+            "ispreview": true
         },
         {
             "_id": "61b395a204a9cb832ab8040e",
@@ -2907,7 +3045,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18_HD_U_H3_pre7.jar",
-            "name": "HD_U_H3_pre7"
+            "name": "HD_U_H3_pre7",
+            "ispreview": true
         },
         {
             "_id": "61b638a204a9cb832a147902",
@@ -2917,7 +3056,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.1_HD_U_H4_pre1.jar",
-            "name": "HD_U_H4_pre1"
+            "name": "HD_U_H4_pre1",
+            "ispreview": true
         },
         {
             "_id": "61bdf3d904a9cb832ab3249e",
@@ -2927,7 +3067,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.1_HD_U_H5_pre2.jar",
-            "name": "HD_U_H5_pre2"
+            "name": "HD_U_H5_pre2",
+            "ispreview": true
         },
         {
             "_id": "61bdf3dc04a9cb832ab32658",
@@ -2937,7 +3078,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.1_HD_U_H5_pre1.jar",
-            "name": "HD_U_H5_pre1"
+            "name": "HD_U_H5_pre1",
+            "ispreview": true
         },
         {
             "_id": "61c0c4a204a9cb832af072ba",
@@ -2947,7 +3089,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.1_HD_U_H5_pre3.jar",
-            "name": "HD_U_H5_pre3"
+            "name": "HD_U_H5_pre3",
+            "ispreview": true
         },
         {
             "_id": "61c2162204a9cb832a0906b8",
@@ -2957,7 +3100,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.1_HD_U_H5_pre4.jar",
-            "name": "HD_U_H5_pre4"
+            "name": "HD_U_H5_pre4",
+            "ispreview": true
         },
         {
             "_id": "6204012204a9cb832ab01dfa",
@@ -2967,7 +3111,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.1_HD_U_H5_pre5.jar",
-            "name": "HD_U_H5_pre5"
+            "name": "HD_U_H5_pre5",
+            "ispreview": true
         },
         {
             "_id": "6217c7a28a3998ab4725218a",
@@ -2977,7 +3122,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.1_HD_U_H5_pre6.jar",
-            "name": "HD_U_H5_pre6"
+            "name": "HD_U_H5_pre6",
+            "ispreview": true
         },
         {
             "_id": "622253a28a3998ab4705b146",
@@ -2987,7 +3133,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.2_HD_U_H6_pre1.jar",
-            "name": "HD_U_H6_pre1"
+            "name": "HD_U_H6_pre1",
+            "ispreview": true
         },
         {
             "_id": "623b60228a3998ab47733899",
@@ -2997,7 +3144,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.2_HD_U_H7_pre1.jar",
-            "name": "HD_U_H7_pre1"
+            "name": "HD_U_H7_pre1",
+            "ispreview": true
         },
         {
             "_id": "623cb1a28a3998ab47919b69",
@@ -3007,7 +3155,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.2_HD_U_H7_pre2.jar",
-            "name": "HD_U_H7_pre2"
+            "name": "HD_U_H7_pre2",
+            "ispreview": true
         },
         {
             "_id": "6245ec228a3998ab478c4595",
@@ -3017,7 +3166,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.2_HD_U_H7_pre3.jar",
-            "name": "HD_U_H7_pre3"
+            "name": "HD_U_H7_pre3",
+            "ispreview": true
         },
         {
             "_id": "62bc93228a3998ab476924a8",
@@ -3027,7 +3177,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19_HD_U_H8_pre1.jar",
-            "name": "HD_U_H8_pre1"
+            "name": "HD_U_H8_pre1",
+            "ispreview": true
         },
         {
             "_id": "62bf36228a3998ab47bc0911",
@@ -3037,7 +3188,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19_HD_U_H8_pre2.jar",
-            "name": "HD_U_H8_pre2"
+            "name": "HD_U_H8_pre2",
+            "ispreview": true
         },
         {
             "_id": "62c32aa28a3998ab4730e60a",
@@ -3047,7 +3199,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19_HD_U_H8_pre3.jar",
-            "name": "HD_U_H8_pre3"
+            "name": "HD_U_H8_pre3",
+            "ispreview": true
         },
         {
             "_id": "62c47c228a3998ab47558e09",
@@ -3057,7 +3210,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19_HD_U_H8_pre5.jar",
-            "name": "HD_U_H8_pre5"
+            "name": "HD_U_H8_pre5",
+            "ispreview": true
         },
         {
             "_id": "62c47c248a3998ab475590b1",
@@ -3067,7 +3221,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19_HD_U_H8_pre4.jar",
-            "name": "HD_U_H8_pre4"
+            "name": "HD_U_H8_pre4",
+            "ispreview": true
         },
         {
             "_id": "62c5cda28a3998ab478195b2",
@@ -3077,7 +3232,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19_HD_U_H8_pre7.jar",
-            "name": "HD_U_H8_pre7"
+            "name": "HD_U_H8_pre7",
+            "ispreview": true
         },
         {
             "_id": "62c5cdaa8a3998ab47819ab3",
@@ -3087,7 +3243,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19_HD_U_H8_pre6.jar",
-            "name": "HD_U_H8_pre6"
+            "name": "HD_U_H8_pre6",
+            "ispreview": true
         },
         {
             "_id": "62c71f238a3998ab47ad8cbf",
@@ -3097,7 +3254,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19_HD_U_H8_pre8.jar",
-            "name": "HD_U_H8_pre8"
+            "name": "HD_U_H8_pre8",
+            "ispreview": true
         },
         {
             "_id": "62c870a38a3998ab47d5f21d",
@@ -3107,7 +3265,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19_HD_U_H8_pre10.jar",
-            "name": "HD_U_H8_pre10"
+            "name": "HD_U_H8_pre10",
+            "ispreview": true
         },
         {
             "_id": "62cdb6a28a3998ab477d01e1",
@@ -3117,7 +3276,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19_HD_U_H9_pre1.jar",
-            "name": "HD_U_H9_pre1"
+            "name": "HD_U_H9_pre1",
+            "ispreview": true
         },
         {
             "_id": "62d994228a3998ab47e52c59",
@@ -3127,7 +3287,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19_HD_U_H9_pre2.jar",
-            "name": "HD_U_H9_pre2"
+            "name": "HD_U_H9_pre2",
+            "ispreview": true
         },
         {
             "_id": "62e2cea28a3998ab471173db",
@@ -3137,7 +3298,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19_HD_U_H9_pre4.jar",
-            "name": "HD_U_H9_pre4"
+            "name": "HD_U_H9_pre4",
+            "ispreview": true
         },
         {
             "_id": "62e2ceac8a3998ab471177c3",
@@ -3147,7 +3309,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19_HD_U_H9_pre3.jar",
-            "name": "HD_U_H9_pre3"
+            "name": "HD_U_H9_pre3",
+            "ispreview": true
         },
         {
             "_id": "62e966238a3998ab47f251af",
@@ -3157,7 +3320,8 @@
             "__v": 0,
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.1_HD_U_H9_pre1.jar",
-            "name": "HD_U_H9_pre1"
+            "name": "HD_U_H9_pre1",
+            "ispreview": true
         },
         {
             "_id": "6307b8ae8a3998ab475d1c61",
@@ -3168,7 +3332,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.2_HD_U_H9_pre1.jar",
             "forge": "Forge 40.1.73",
-            "name": "HD_U_H9_pre1"
+            "name": "HD_U_H9_pre1",
+            "ispreview": true
         },
         {
             "_id": "6307b8b18a3998ab475d2098",
@@ -3179,7 +3344,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.2_HD_U_H8_pre1.jar",
             "forge": "Forge 40.1.73",
-            "name": "HD_U_H8_pre1"
+            "name": "HD_U_H8_pre1",
+            "ispreview": true
         },
         {
             "_id": "631cd0a28a3998ab47af440b",
@@ -3190,7 +3356,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.2_HD_U_I1_pre1.jar",
             "forge": "Forge 43.1.1",
-            "name": "HD_U_I1_pre1"
+            "name": "HD_U_I1_pre1",
+            "ispreview": true
         },
         {
             "_id": "6328ae238a3998ab47d17c39",
@@ -3201,7 +3368,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.2_HD_U_I1_pre2.jar",
             "forge": "Forge 43.1.1",
-            "name": "HD_U_I1_pre2"
+            "name": "HD_U_I1_pre2",
+            "ispreview": true
         },
         {
             "_id": "637fb12379b733f49b0e3e74",
@@ -3212,7 +3380,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.2_HD_U_I1_pre4.jar",
             "forge": "Forge 43.1.52",
-            "name": "HD_U_I1_pre4"
+            "name": "HD_U_I1_pre4",
+            "ispreview": true
         },
         {
             "_id": "637fb12a79b733f49b0e479c",
@@ -3223,7 +3392,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.2_HD_U_I1_pre3.jar",
             "forge": "Forge 43.1.52",
-            "name": "HD_U_I1_pre3"
+            "name": "HD_U_I1_pre3",
+            "ispreview": true
         },
         {
             "_id": "637fb13379b733f49b0e55a8",
@@ -3234,7 +3404,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.2_HD_U_H9_pre2.jar",
             "forge": "Forge 40.1.85",
-            "name": "HD_U_H9_pre2"
+            "name": "HD_U_H9_pre2",
+            "ispreview": true
         },
         {
             "_id": "63ce586781abbfbf9706e185",
@@ -3245,7 +3416,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.3_HD_U_I2_pre2.jar",
             "forge": "Forge N/A",
-            "name": "HD_U_I2_pre2"
+            "name": "HD_U_I2_pre2",
+            "ispreview": true
         },
         {
             "_id": "63ce586a81abbfbf9706e695",
@@ -3256,7 +3428,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.3_HD_U_I2_pre1.jar",
             "forge": "Forge N/A",
-            "name": "HD_U_I2_pre1"
+            "name": "HD_U_I2_pre1",
+            "ispreview": true
         },
         {
             "_id": "63d9572181abbfbf976fff18",
@@ -3267,7 +3440,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.3_HD_U_I2_pre3.jar",
             "forge": "Forge N/A",
-            "name": "HD_U_I2_pre3"
+            "name": "HD_U_I2_pre3",
+            "ispreview": true
         },
         {
             "_id": "640387220bbbb25aafecb861",
@@ -3278,7 +3452,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.3_HD_U_I2_pre5.jar",
             "forge": "Forge 44.1.17",
-            "name": "HD_U_I2_pre5"
+            "name": "HD_U_I2_pre5",
+            "ispreview": true
         },
         {
             "_id": "640387260bbbb25aafecba08",
@@ -3289,7 +3464,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.3_HD_U_I2_pre4.jar",
             "forge": "Forge 44.0.49",
-            "name": "HD_U_I2_pre4"
+            "name": "HD_U_I2_pre4",
+            "ispreview": true
         },
         {
             "_id": "64189f210bbbb25aafeabbc6",
@@ -3300,7 +3476,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre4.jar",
             "forge": "Forge 45.0.9",
-            "name": "HD_U_I3_pre4"
+            "name": "HD_U_I3_pre4",
+            "ispreview": true
         },
         {
             "_id": "64189f240bbbb25aafeabd8b",
@@ -3311,7 +3488,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre3.jar",
             "forge": "Forge 45.0.9",
-            "name": "HD_U_I3_pre3"
+            "name": "HD_U_I3_pre3",
+            "ispreview": true
         },
         {
             "_id": "6419f0a10bbbb25aaf0338cc",
@@ -3322,7 +3500,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre6.jar",
             "forge": "Forge 45.0.9",
-            "name": "HD_U_I3_pre6"
+            "name": "HD_U_I3_pre6",
+            "ispreview": true
         },
         {
             "_id": "6419f0a40bbbb25aaf033dde",
@@ -3333,7 +3512,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre5.jar",
             "forge": "Forge 45.0.9",
-            "name": "HD_U_I3_pre5"
+            "name": "HD_U_I3_pre5",
+            "ispreview": true
         },
         {
             "_id": "641b42210bbbb25aaf1b15a9",
@@ -3344,7 +3524,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre8.jar",
             "forge": "Forge 45.0.9",
-            "name": "HD_U_I3_pre8"
+            "name": "HD_U_I3_pre8",
+            "ispreview": true
         },
         {
             "_id": "641b42240bbbb25aaf1b1962",
@@ -3355,7 +3536,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre7.jar",
             "forge": "Forge 45.0.9",
-            "name": "HD_U_I3_pre7"
+            "name": "HD_U_I3_pre7",
+            "ispreview": true
         },
         {
             "_id": "641c93a10bbbb25aaf32dd49",
@@ -3366,7 +3548,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre9.jar",
             "forge": "Forge 45.0.9",
-            "name": "HD_U_I3_pre9"
+            "name": "HD_U_I3_pre9",
+            "ispreview": true
         },
         {
             "_id": "642088220bbbb25aaf92e682",
@@ -3377,7 +3560,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.19.4_HD_U_I4_pre1.jar",
             "forge": "Forge 45.0.23",
-            "name": "HD_U_I4_pre1"
+            "name": "HD_U_I4_pre1",
+            "ispreview": true
         },
         {
             "_id": "6420882c0bbbb25aaf92f278",
@@ -3388,7 +3572,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.18.2_HD_U_H9_pre3.jar",
             "forge": "Forge 40.2.1",
-            "name": "HD_U_H9_pre3"
+            "name": "HD_U_H9_pre3",
+            "ispreview": true
         },
         {
             "_id": "647cd1220bbbb25aaf789c7e",
@@ -3399,7 +3584,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20-pre4_HD_U_I5_pre1.jar",
             "forge": "Forge N/A",
-            "name": "HD_U_I5_pre1"
+            "name": "HD_U_I5_pre1",
+            "ispreview": true
         },
         {
             "_id": "648217220bbbb25aaf0d2c54",
@@ -3410,7 +3596,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20_HD_U_I5_pre3.jar",
             "forge": "Forge N/A",
-            "name": "HD_U_I5_pre3"
+            "name": "HD_U_I5_pre3",
+            "ispreview": true
         },
         {
             "_id": "64933aa20bbbb25aaf5475d2",
@@ -3421,7 +3608,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20.1_HD_U_I5_pre4.jar",
             "forge": "Forge 47.0.3",
-            "name": "HD_U_I5_pre4"
+            "name": "HD_U_I5_pre4",
+            "ispreview": true
         },
         {
             "_id": "64948c220bbbb25aaf910bce",
@@ -3432,7 +3620,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20.1_HD_U_I5_pre5.jar",
             "forge": "Forge 47.0.3",
-            "name": "HD_U_I5_pre5"
+            "name": "HD_U_I5_pre5",
+            "ispreview": true
         },
         {
             "_id": "6495dda20bbbb25aafcc43d8",
@@ -3443,7 +3632,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20.1_HD_U_I5_pre6.jar",
             "forge": "Forge 47.0.3",
-            "name": "HD_U_I5_pre6"
+            "name": "HD_U_I5_pre6",
+            "ispreview": true
         },
         {
             "_id": "649f18220bbbb25aaf1de3de",
@@ -3454,7 +3644,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20.1_HD_U_I5_pre7.jar",
             "forge": "Forge 47.0.35",
-            "name": "HD_U_I5_pre7"
+            "name": "HD_U_I5_pre7",
+            "ispreview": true
         },
         {
             "_id": "64a45e220bbbb25aaff111bd",
@@ -3465,7 +3656,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20.1_HD_U_I5_pre8.jar",
             "forge": "Forge 47.0.35",
-            "name": "HD_U_I5_pre8"
+            "name": "HD_U_I5_pre8",
+            "ispreview": true
         },
         {
             "_id": "64a5afa20bbbb25aaf23338a",
@@ -3476,7 +3668,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20.1_HD_U_I5_pre9.jar",
             "forge": "Forge 47.0.35",
-            "name": "HD_U_I5_pre9"
+            "name": "HD_U_I5_pre9",
+            "ispreview": true
         },
         {
             "_id": "64aaf5a20bbbb25aaff08241",
@@ -3487,7 +3680,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20.1_HD_U_I6_pre1.jar",
             "forge": "Forge 47.0.35",
-            "name": "HD_U_I6_pre1"
+            "name": "HD_U_I6_pre1",
+            "ispreview": true
         },
         {
             "_id": "64b581a20bbbb25aaf8fadbe",
@@ -3498,7 +3692,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20.1_HD_U_I6_pre3.jar",
             "forge": "Forge 47.0.35",
-            "name": "HD_U_I6_pre3"
+            "name": "HD_U_I6_pre3",
+            "ispreview": true
         },
         {
             "_id": "64b581a40bbbb25aaf8fb1bb",
@@ -3509,7 +3704,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20.1_HD_U_I6_pre2.jar",
             "forge": "Forge 47.0.35",
-            "name": "HD_U_I6_pre2"
+            "name": "HD_U_I6_pre2",
+            "ispreview": true
         },
         {
             "_id": "64c2b0a30bbbb25aafca7f56",
@@ -3520,7 +3716,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20.1_HD_U_I6_pre6.jar",
             "forge": "Forge 47.1.43",
-            "name": "HD_U_I6_pre6"
+            "name": "HD_U_I6_pre6",
+            "ispreview": true
         },
         {
             "_id": "64c2b0a60bbbb25aafca81b6",
@@ -3531,7 +3728,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20.1_HD_U_I6_pre5.jar",
             "forge": "Forge 47.1.43",
-            "name": "HD_U_I6_pre5"
+            "name": "HD_U_I6_pre5",
+            "ispreview": true
         },
         {
             "_id": "64c2b0a80bbbb25aafca83d0",
@@ -3542,7 +3740,8 @@
             "time": "0000-00-00",
             "filename": "preview_OptiFine_1.20.1_HD_U_I6_pre4.jar",
             "forge": "Forge 47.1.0",
-            "name": "HD_U_I6_pre4"
+            "name": "HD_U_I6_pre4",
+            "ispreview": true
         }
     ]
 }

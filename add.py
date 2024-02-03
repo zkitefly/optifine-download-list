@@ -8,7 +8,7 @@ def process_filename(filename, mcversion):
     processed_name = re.sub(fr'{mcversion}_', '', processed_name)
     return processed_name
 
-def add_name_property(module):
+def add_property(module):
     # 如果模块缺少 name 属性，则添加
     if 'name' not in module:
         mcversion = module.get('mcversion', '')
@@ -16,7 +16,10 @@ def add_name_property(module):
         module['name'] = processed_name
     # 如果模块缺少 time 属性，则添加
     if 'time' not in module:
-        module['name'] = "0000-00-00"
+        module['time'] = "0000-00-00"
+    # 如果模块缺少 ispreview 属性，则添加
+    if 'ispreview' not in module:
+        module['ispreview'] = "pre" in module['filename'].lower()
 
 # 读取 index.json 文件
 with open('index.json', 'r') as file:
@@ -24,7 +27,7 @@ with open('index.json', 'r') as file:
 
 # 处理每个模块
 for module in data['file']:
-    add_name_property(module)
+    add_property(module)
 
 # 保存更新后的 index.json 文件
 with open('index.json', 'w') as file:
