@@ -20,6 +20,9 @@ def add_property(module):
     # 如果模块缺少 ispreview 属性，则添加
     if 'ispreview' not in module:
         module['ispreview'] = "pre" in module['filename'].lower()
+    # 如果模块缺少 forge 属性，则添加
+    if 'forge' not in module:
+        module['forge'] = "Forge N/A"
 
 # 读取 index.json 文件
 with open('index.json', 'r') as file:
