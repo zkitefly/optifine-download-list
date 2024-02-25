@@ -2,6 +2,20 @@ import json
 import requests
 from concurrent.futures import ThreadPoolExecutor
 
+def check_bmclapi_link():
+    bmclapi_url = "https://bmclapi2.bangbang93.com/optifine/versionList"
+    try:
+        response = requests.get(bmclapi_url)
+        if response.status_code == 200:
+            print("成功获取到 BMCLAPI 版本列表，继续运行。")
+            return True
+        else:
+            print(f"无法获取 BMCLAPI 版本列表，状态码: {response.status_code}")
+            return False
+    except requests.exceptions.RequestException as e:
+        print(f"连接 BMCLAPI 版本列表出错: {e}")
+        return False
+
 def check_link(module):
     filename = module['filename']
     url = f"https://of-302v.zkitefly.eu.org/file/{filename}"
@@ -23,6 +37,11 @@ def delete_module(module):
     index_data['file'].remove(module)
 
 def check_links():
+    # 检测 OptiFine 版本列表链接
+    if not check_bmclapi_link():
+        print("无法继续执行脚本，BMCLAPI 无法连接。")
+        return
+    
     # 读取 index.json 文件
     with open('index.json', 'r') as f:
         global index_data
