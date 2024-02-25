@@ -48,7 +48,7 @@ def check_links():
         index_data = json.load(f)
     
     # 使用线程池并发检测链接
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=64) as executor:
         futures = [executor.submit(check_link, module) for module in index_data['file']]
         for future in futures:
             future.result()
