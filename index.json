@@ -10,6 +10,14 @@
     ],
     "file": [
         {
+            "name": "HD_U_I7_pre4",
+            "time": "2024-03-05",
+            "ispreview": true,
+            "mcversion": "1.20.4",
+            "filename": "preview_OptiFine_1.20.4_HD_U_I7_pre4.jar",
+            "forge": "Forge 49.0.31"
+        },
+        {
             "name": "HD_U_I7_pre3",
             "time": "2024-03-04",
             "ispreview": true,
