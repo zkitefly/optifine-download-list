@@ -18,6 +18,14 @@
             "forge": "Forge 49.0.31"
         },
         {
+            "name": "HD_U_I7_pre7",
+            "time": "2024-03-15",
+            "ispreview": true,
+            "mcversion": "1.20.4",
+            "filename": "preview_OptiFine_1.20.4_HD_U_I7_pre7.jar",
+            "forge": "Forge 49.0.31"
+        },
+        {
             "name": "HD_U_I7_pre5",
             "time": "2024-03-12",
             "ispreview": true,
