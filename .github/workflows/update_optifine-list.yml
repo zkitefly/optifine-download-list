@@ -1,0 +1,76 @@
+name: update_optifine-list
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '* */6 * * *' # 每六个小时运行一次
+  repository_dispatch:
+    types: [update_optifine-list]
+  push:
+    branches: [main]
+    paths: 
+      - '.github/workflows/update_optifine-list.yml'
+      - 'main.py'
+      - 'converter.py'
+
+jobs:
+  update_optifine-list:
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@main
+
+      - name: Set time
+        shell: bash
+        run: |
+          sudo timedatectl set-timezone 'Asia/Shanghai'
+
+      - name: Set up Python
+        uses: actions/setup-python@main 
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Clean Git history
+        run: |
+          git filter-branch --env-filter '
+          export cutoff_date=$(date --date="1 month ago" +%Y-%m-%d)
+          if [ "$GIT_COMMIT" = "$(git rev-list -n 1 --before="$cutoff_date" HEAD)" ]; then
+              export GIT_COMMIT_KEEP=1
+          else
+              export GIT_COMMIT_KEEP=0
+          fi
+          ' --tag-name-filter cat -- --branches --tags
+
+      - name: Fetch optifine-list changes
+        id: fetch_changes
+        shell: bash
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          python3 main.py
+          python3 converter.py
+          git add -A
+          if git diff-index --quiet HEAD; then
+            # No changes
+            echo 'changed=false' >> $GITHUB_OUTPUT
+          else
+            # Changes detected
+            echo 'changed=true' >> $GITHUB_OUTPUT
+            git commit -m "Update optifine-list history （`date '+%Y-%m-%d %H:%M:%S'`）
+
+          GitHub Action: https://github.com/${{ github.repository }}/actions/runs/$GITHUB_RUN_ID
+            "
+          fi
+
+      - name: Push changes
+        if: steps.fetch_changes.outputs.changed == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          force: true

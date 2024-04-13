@@ -1,0 +1,62 @@
+name: check_link
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # 每天的 0 点 0 分运行
+  repository_dispatch:
+    types: [check_link]
+  push:
+    branches: [main]
+    paths: 
+      - '.github/workflows/check_link.yml'
+      - 'tools/test.py'
+
+jobs:
+  check_link:
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@main
+
+      - name: Set time
+        shell: bash
+        run: |
+          sudo timedatectl set-timezone 'Asia/Shanghai'
+
+      - name: Set up Python
+        uses: actions/setup-python@main 
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: check_link
+        id: fetch_changes
+        shell: bash
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          python3 tools/test.py
+          git add -A
+          if git diff-index --quiet HEAD; then
+            # No changes
+            echo 'changed=false' >> $GITHUB_OUTPUT
+          else
+            # Changes detected
+            echo 'changed=true' >> $GITHUB_OUTPUT
+            git commit -m "check_link （`date '+%Y-%m-%d %H:%M:%S'`）
+
+          GitHub Action: https://github.com/${{ github.repository }}/actions/runs/$GITHUB_RUN_ID
+            "
+          fi
+
+      - name: Push changes
+        if: steps.fetch_changes.outputs.changed == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
