@@ -61,7 +61,7 @@ jobs:
           else
             # Changes detected
             echo 'changed=true' >> $GITHUB_OUTPUT
-            git commit -m "Update optifine-list history （`date '+%Y-%m-%d %H:%M:%S'`）
+            git commit -m "Update optifine-list history （`date '+%Y-%m-%d %H:%M:%S'` +0800）
 
           GitHub Action: https://github.com/${{ github.repository }}/actions/runs/$GITHUB_RUN_ID
             "
