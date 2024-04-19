@@ -35,16 +35,16 @@ jobs:
           python3 -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Clean Git history
-        run: |
-          git filter-branch --env-filter '
-          export cutoff_date=$(date --date="1 month ago" +%Y-%m-%d)
-          if [ "$GIT_COMMIT" = "$(git rev-list -n 1 --before="$cutoff_date" HEAD)" ]; then
-              export GIT_COMMIT_KEEP=1
-          else
-              export GIT_COMMIT_KEEP=0
-          fi
-          ' --tag-name-filter cat -- --branches --tags
+      # - name: Clean Git history
+      #   run: |
+      #     git filter-branch --env-filter '
+      #     export cutoff_date=$(date --date="1 month ago" +%Y-%m-%d)
+      #     if [ "$GIT_COMMIT" = "$(git rev-list -n 1 --before="$cutoff_date" HEAD)" ]; then
+      #         export GIT_COMMIT_KEEP=1
+      #     else
+      #         export GIT_COMMIT_KEEP=0
+      #     fi
+      #     ' --tag-name-filter cat -- --branches --tags
 
       - name: Fetch optifine-list changes
         id: fetch_changes
@@ -73,4 +73,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
-          force: true
+          # force: true
