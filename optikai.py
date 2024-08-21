@@ -72,7 +72,10 @@ for view_more_link in view_more_links:
             all_downloads.append(download_entry)
 
 # Step 9: Save all collected data to a JSON file
-with open('optikai.json', 'w', encoding='utf-8') as f:
+with open('raw-optikai.json', 'w', encoding='utf-8') as f:
     json.dump(all_downloads, f, ensure_ascii=False, indent=4)
+
+with open('optikai.json', 'w', encoding='utf-8') as f:
+    json.dump(all_downloads, f, ensure_ascii=False)
 
 print(f"Saved {len(all_downloads)} download entries to optikai.json")
