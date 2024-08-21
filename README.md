@@ -11,3 +11,11 @@ https://optifine-download-list.netlify.app/index.json
 ```
 https://zkitefly.github.io/optifine-download-list/index.json
 ```
+
+```
+https://optifine-download-list.netlify.app/optikai.json
+```
+
+```
+https://zkitefly.github.io/optifine-download-list/optikai.json
+```
