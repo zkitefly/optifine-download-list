@@ -3,7 +3,7 @@ name: update_optifine-list
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* */12 * * *' # 每六个小时运行一次
+    - cron: '* */12 * * *' # 每12个小时运行一次
   repository_dispatch:
     types: [update_optifine-list]
   push:
