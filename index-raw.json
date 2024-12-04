@@ -10,6 +10,22 @@
     ],
     "file": [
         {
+            "name": "HD_U_J3_pre1",
+            "time": "2024-12-03",
+            "ispreview": true,
+            "mcversion": "1.21.4",
+            "filename": "preview_OptiFine_1.21.4_HD_U_J3_pre1.jar",
+            "forge": "Forge N/A"
+        },
+        {
+            "name": "HD_U_J2",
+            "time": "2024-12-03",
+            "ispreview": false,
+            "mcversion": "1.21.3",
+            "filename": "OptiFine_1.21.3_HD_U_J2.jar",
+            "forge": "Forge 53.0.25"
+        },
+        {
             "name": "HD_U_J2_pre12",
             "time": "2024-12-02",
             "ispreview": true,
