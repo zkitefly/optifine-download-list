@@ -18,6 +18,14 @@
             "forge": "Forge 54.0.16"
         },
         {
+            "name": "HD_U_J3_pre9",
+            "time": "2025-01-07",
+            "ispreview": true,
+            "mcversion": "1.21.4",
+            "filename": "preview_OptiFine_1.21.4_HD_U_J3_pre9.jar",
+            "forge": "Forge 54.0.16"
+        },
+        {
             "name": "HD_U_J3_pre7",
             "time": "2025-01-05",
             "ispreview": true,
