@@ -342,24 +342,6 @@
         "name": "HD_K_J2_pre1"
     },
     {
-        "filename": "preview_OptiFine_1.20.4-rc1_HD_K_J1_pre8.jar",
-        "forge": "Forge N/A",
-        "time": "27.01.2024",
-        "ispreview": true,
-        "filehash": "603114e66e7784b3cb7e6c1856b3bfe4",
-        "mcversion": "1.20.4-rc1",
-        "name": "HD_K_J1_pre8"
-    },
-    {
-        "filename": "preview_OptiFine_1.20.4-rc1_HD_K_J1_pre7.jar",
-        "forge": "Forge N/A",
-        "time": "09.01.2024",
-        "ispreview": true,
-        "filehash": "b6bea1ec6aacf0cb8bfd674a4d518d94",
-        "mcversion": "1.20.4-rc1",
-        "name": "HD_K_J1_pre7"
-    },
-    {
         "filename": "preview_OptiFine_1.20.3-rc1_HD_K_I9_pre27.jar",
         "forge": "Forge N/A",
         "time": "06.12.2023",
@@ -502,15 +484,6 @@
         "filehash": "1c6fa650c051c5f8749af821fdc59e68",
         "mcversion": "23w41a",
         "name": "HD_K_I9_pre9"
-    },
-    {
-        "filename": "preview_OptiFine_23w41a_HD_K_I9_pre8.jar",
-        "forge": "Forge N/A",
-        "time": "11.10.2023",
-        "ispreview": true,
-        "filehash": "8826517eb16036c8a4d783da158b12c8",
-        "mcversion": "23w41a",
-        "name": "HD_K_I9_pre8"
     },
     {
         "filename": "preview_OptiFine_23w40a_HD_K_I9_pre7.jar",
