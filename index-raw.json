@@ -4090,18 +4090,6 @@
             "ispreview": true
         },
         {
-            "_id": "64c2b0a30bbbb25aafca7f56",
-            "mcversion": "1.20.1",
-            "patch": "pre6",
-            "type": "HD_U_I6",
-            "__v": 0,
-            "filename": "preview_OptiFine_1.20.1_HD_U_I6_pre6.jar",
-            "forge": "Forge 47.1.43",
-            "name": "HD_U_I6_pre6",
-            "time": "0000-00-00",
-            "ispreview": true
-        },
-        {
             "_id": "64c2b0a80bbbb25aafca83d0",
             "mcversion": "1.20.1",
             "patch": "pre4",
