@@ -3546,18 +3546,6 @@
             "forge": "Forge N/A"
         },
         {
-            "_id": "61b395a204a9cb832ab8040e",
-            "mcversion": "1.18",
-            "patch": "pre7",
-            "type": "HD_U_H3",
-            "__v": 0,
-            "filename": "preview_OptiFine_1.18_HD_U_H3_pre7.jar",
-            "name": "HD_U_H3_pre7",
-            "time": "0000-00-00",
-            "ispreview": true,
-            "forge": "Forge N/A"
-        },
-        {
             "_id": "61b638a204a9cb832a147902",
             "mcversion": "1.18.1",
             "patch": "pre1",
@@ -3721,18 +3709,6 @@
             "__v": 0,
             "filename": "preview_OptiFine_1.19_HD_U_H9_pre1.jar",
             "name": "HD_U_H9_pre1",
-            "time": "0000-00-00",
-            "ispreview": true,
-            "forge": "Forge N/A"
-        },
-        {
-            "_id": "62e2ceac8a3998ab471177c3",
-            "mcversion": "1.19",
-            "patch": "pre3",
-            "type": "HD_U_H9",
-            "__v": 0,
-            "filename": "preview_OptiFine_1.19_HD_U_H9_pre3.jar",
-            "name": "HD_U_H9_pre3",
             "time": "0000-00-00",
             "ispreview": true,
             "forge": "Forge N/A"
