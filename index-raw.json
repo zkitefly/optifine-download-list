@@ -3790,18 +3790,6 @@
             "ispreview": true
         },
         {
-            "_id": "64948c220bbbb25aaf910bce",
-            "mcversion": "1.20.1",
-            "patch": "pre5",
-            "type": "HD_U_I5",
-            "__v": 0,
-            "filename": "preview_OptiFine_1.20.1_HD_U_I5_pre5.jar",
-            "forge": "Forge 47.0.3",
-            "name": "HD_U_I5_pre5",
-            "time": "0000-00-00",
-            "ispreview": true
-        },
-        {
             "_id": "64c2b0a80bbbb25aafca83d0",
             "mcversion": "1.20.1",
             "patch": "pre4",
