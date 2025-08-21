@@ -3514,18 +3514,6 @@
             "forge": "Forge N/A"
         },
         {
-            "_id": "60fb7423f5d4ba65d97f829f",
-            "mcversion": "1.17.1",
-            "patch": "pre31",
-            "type": "HD_U_G9",
-            "__v": 0,
-            "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre31.jar",
-            "name": "HD_U_G9_pre31",
-            "time": "0000-00-00",
-            "ispreview": true,
-            "forge": "Forge N/A"
-        },
-        {
             "_id": "60fda6a3f5d4ba65d9b47cb2",
             "mcversion": "1.17.1",
             "patch": "pre32",
