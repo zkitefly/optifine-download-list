@@ -3734,18 +3734,6 @@
             "ispreview": true
         },
         {
-            "_id": "641b42210bbbb25aaf1b15a9",
-            "mcversion": "1.19.4",
-            "patch": "pre8",
-            "type": "HD_U_I3",
-            "__v": 0,
-            "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre8.jar",
-            "forge": "Forge 45.0.9",
-            "name": "HD_U_I3_pre8",
-            "time": "0000-00-00",
-            "ispreview": true
-        },
-        {
             "_id": "641c93a10bbbb25aaf32dd49",
             "mcversion": "1.19.4",
             "patch": "pre9",
