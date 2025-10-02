@@ -10,6 +10,22 @@
     ],
     "file": [
         {
+            "name": "HD_U_J7_pre2",
+            "time": "2025-10-01",
+            "ispreview": true,
+            "mcversion": "1.21.9",
+            "filename": "preview_OptiFine_1.21.9_HD_U_J7_pre2.jar",
+            "forge": "Forge N/A"
+        },
+        {
+            "name": "HD_U_J7_pre1",
+            "time": "2025-10-01",
+            "ispreview": true,
+            "mcversion": "1.21.9",
+            "filename": "preview_OptiFine_1.21.9_HD_U_J7_pre1.jar",
+            "forge": "Forge N/A"
+        },
+        {
             "name": "HD_U_J6_pre16",
             "time": "2025-08-29",
             "ispreview": true,
