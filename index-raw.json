@@ -3638,18 +3638,6 @@
             "forge": "Forge N/A"
         },
         {
-            "_id": "62c5cda28a3998ab478195b2",
-            "mcversion": "1.19",
-            "patch": "pre7",
-            "type": "HD_U_H8",
-            "__v": 0,
-            "filename": "preview_OptiFine_1.19_HD_U_H8_pre7.jar",
-            "name": "HD_U_H8_pre7",
-            "time": "0000-00-00",
-            "ispreview": true,
-            "forge": "Forge N/A"
-        },
-        {
             "_id": "637fb13379b733f49b0e55a8",
             "mcversion": "1.18.2",
             "patch": "pre2",
