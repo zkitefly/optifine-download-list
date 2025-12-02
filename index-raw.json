@@ -18,6 +18,22 @@
             "forge": "Forge 60.1.0"
         },
         {
+            "name": "HD_U_J7_pre9",
+            "time": "2025-12-01",
+            "ispreview": true,
+            "mcversion": "1.21.10",
+            "filename": "preview_OptiFine_1.21.10_HD_U_J7_pre9.jar",
+            "forge": "Forge 60.1.0"
+        },
+        {
+            "name": "HD_U_J7_pre8",
+            "time": "2025-12-01",
+            "ispreview": true,
+            "mcversion": "1.21.10",
+            "filename": "preview_OptiFine_1.21.10_HD_U_J7_pre8.jar",
+            "forge": "Forge 60.1.0"
+        },
+        {
             "name": "HD_U_J7_pre6",
             "time": "2025-11-30",
             "ispreview": true,
