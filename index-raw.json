@@ -10,6 +10,14 @@
     ],
     "file": [
         {
+            "name": "HD_U_J8",
+            "time": "2026-01-21",
+            "ispreview": false,
+            "mcversion": "1.21.11",
+            "filename": "OptiFine_1.21.11_HD_U_J8.jar",
+            "forge": "Forge 61.0.7"
+        },
+        {
             "name": "HD_U_J8_pre11",
             "time": "2026-01-20",
             "ispreview": true,
