@@ -171,6 +171,177 @@
         "name": "HD_K_J2_pre23"
     },
     {
+        "filename": "preview_OptiFine_1.20.5-rc3_HD_K_J2_pre22.jar",
+        "forge": "Forge N/A",
+        "time": "27.04.2024",
+        "ispreview": true,
+        "filehash": "300d4fb94bcd97c840fd624c4fea4f92",
+        "mcversion": "1.20.5-rc3",
+        "name": "HD_K_J2_pre22"
+    },
+    {
+        "filename": "preview_OptiFine_1.20.5-rc3_HD_K_J2_pre21.jar",
+        "forge": "Forge N/A",
+        "time": "22.04.2024",
+        "ispreview": true,
+        "filehash": "6e0e5297a5a8a143ddde4200c0bb1cf8",
+        "mcversion": "1.20.5-rc3",
+        "name": "HD_K_J2_pre21"
+    },
+    {
+        "filename": "preview_OptiFine_1.20.5-rc2_HD_K_J2_pre20.jar",
+        "forge": "Forge N/A",
+        "time": "19.04.2024",
+        "ispreview": true,
+        "filehash": "625bb9c4b6e54abc27f86dc8faa120d3",
+        "mcversion": "1.20.5-rc2",
+        "name": "HD_K_J2_pre20"
+    },
+    {
+        "filename": "preview_OptiFine_1.20.5-rc1_HD_K_J2_pre19.jar",
+        "forge": "Forge N/A",
+        "time": "18.04.2024",
+        "ispreview": true,
+        "filehash": "59ae27fa714ae430a1c209d6a4245bd2",
+        "mcversion": "1.20.5-rc1",
+        "name": "HD_K_J2_pre19"
+    },
+    {
+        "filename": "preview_OptiFine_1.20.5-pre4_HD_K_J2_pre18.jar",
+        "forge": "Forge N/A",
+        "time": "17.04.2024",
+        "ispreview": true,
+        "filehash": "e6d49c031503ee2ae379f64a8c0179ef",
+        "mcversion": "1.20.5-pre4",
+        "name": "HD_K_J2_pre18"
+    },
+    {
+        "filename": "preview_OptiFine_1.20.5-pre2_HD_K_J2_pre17.jar",
+        "forge": "Forge N/A",
+        "time": "15.04.2024",
+        "ispreview": true,
+        "filehash": "a9526396f05662e199141c0f80f0f80a",
+        "mcversion": "1.20.5-pre2",
+        "name": "HD_K_J2_pre17"
+    },
+    {
+        "filename": "preview_OptiFine_1.20.5-pre1_HD_K_J2_pre16.jar",
+        "forge": "Forge N/A",
+        "time": "14.04.2024",
+        "ispreview": true,
+        "filehash": "ac47391226665c2b5a4827a3da93fe3c",
+        "mcversion": "1.20.5-pre1",
+        "name": "HD_K_J2_pre16"
+    },
+    {
+        "filename": "preview_OptiFine_24w13a_HD_K_J2_pre15.jar",
+        "forge": "Forge N/A",
+        "time": "29.03.2024",
+        "ispreview": true,
+        "filehash": "a09c200334dddb9f8883e4cf62840f13",
+        "mcversion": "24w13a",
+        "name": "HD_K_J2_pre15"
+    },
+    {
+        "filename": "preview_OptiFine_24w12a_HD_K_J2_pre14.jar",
+        "forge": "Forge N/A",
+        "time": "20.03.2024",
+        "ispreview": true,
+        "filehash": "022a00fcee9f0d579e7f09d6b9ebab47",
+        "mcversion": "24w12a",
+        "name": "HD_K_J2_pre14"
+    },
+    {
+        "filename": "preview_OptiFine_24w11a_HD_K_J2_pre12.jar",
+        "forge": "Forge N/A",
+        "time": "16.03.2024",
+        "ispreview": true,
+        "filehash": "2d80883975e3e4be293127a8b3a8315a",
+        "mcversion": "24w11a",
+        "name": "HD_K_J2_pre12"
+    },
+    {
+        "filename": "preview_OptiFine_24w11a_HD_K_J2_pre11.jar",
+        "forge": "Forge N/A",
+        "time": "14.03.2024",
+        "ispreview": true,
+        "filehash": "6473473485471de0b51f573aed0054d7",
+        "mcversion": "24w11a",
+        "name": "HD_K_J2_pre11"
+    },
+    {
+        "filename": "preview_OptiFine_24w09a_HD_K_J2_pre10.jar",
+        "forge": "Forge N/A",
+        "time": "01.03.2024",
+        "ispreview": true,
+        "filehash": "30d83763e79b1ad7e62a8328d5802021",
+        "mcversion": "24w09a",
+        "name": "HD_K_J2_pre10"
+    },
+    {
+        "filename": "preview_OptiFine_24w07a_HD_K_J2_pre9.jar",
+        "forge": "Forge N/A",
+        "time": "14.02.2024",
+        "ispreview": true,
+        "filehash": "6e29fdc809a4e2bd7f474fb51995bdbc",
+        "mcversion": "24w07a",
+        "name": "HD_K_J2_pre9"
+    },
+    {
+        "filename": "preview_OptiFine_24w06a_HD_K_J2_pre8.jar",
+        "forge": "Forge N/A",
+        "time": "07.02.2024",
+        "ispreview": true,
+        "filehash": "59ae57e4bd6e4d74b9ab9f7b247315f2",
+        "mcversion": "24w06a",
+        "name": "HD_K_J2_pre8"
+    },
+    {
+        "filename": "preview_OptiFine_24w05b_HD_K_J2_pre7.jar",
+        "forge": "Forge N/A",
+        "time": "02.02.2024",
+        "ispreview": true,
+        "filehash": "7959d4abd7d75e992a6e3b262c5455d7",
+        "mcversion": "24w05b",
+        "name": "HD_K_J2_pre7"
+    },
+    {
+        "filename": "preview_OptiFine_24w04a_HD_K_J2_pre6.jar",
+        "forge": "Forge N/A",
+        "time": "26.01.2024",
+        "ispreview": true,
+        "filehash": "a890140176a33ede8a3ae02ab5432735",
+        "mcversion": "24w04a",
+        "name": "HD_K_J2_pre6"
+    },
+    {
+        "filename": "preview_OptiFine_24w03b_HD_K_J2_pre5.jar",
+        "forge": "Forge N/A",
+        "time": "18.01.2024",
+        "ispreview": true,
+        "filehash": "3d4d1fa812a5533972ddbca8c4d4ec66",
+        "mcversion": "24w03b",
+        "name": "HD_K_J2_pre5"
+    },
+    {
+        "filename": "preview_OptiFine_23w51b_HD_K_J2_pre2.jar",
+        "forge": "Forge N/A",
+        "time": "21.12.2023",
+        "ispreview": true,
+        "filehash": "0a0721eeec8461db52d3b71d3e9d9d95",
+        "mcversion": "23w51b",
+        "name": "HD_K_J2_pre2"
+    },
+    {
+        "filename": "preview_OptiFine_23w51b_HD_K_J2_pre1.jar",
+        "forge": "Forge N/A",
+        "time": "18.12.2023",
+        "ispreview": true,
+        "filehash": "1b52392c3c2b7bb64d5438f5c402fe15",
+        "mcversion": "23w51b",
+        "name": "HD_K_J2_pre1"
+    },
+    {
         "filename": "preview_OptiFine_1.20.4-rc1_HD_K_J1_pre8.jar",
         "forge": "Forge N/A",
         "time": "27.01.2024",
