@@ -10,6 +10,14 @@
     ],
     "file": [
         {
+            "name": "HD_U_K1_pre1",
+            "time": "2026-06-09",
+            "ispreview": true,
+            "mcversion": "26.1.2",
+            "filename": "preview_OptiFine_26.1.2_HD_U_K1_pre1.jar",
+            "forge": "Forge N/A"
+        },
+        {
             "name": "HD_U_J9",
             "time": "2026-02-05",
             "ispreview": false,
